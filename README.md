@@ -16,7 +16,7 @@ FLNet is a Federated Learning (FL) framework that integrates **Adaptive Gradient
 To get started, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/FLNet.git
+git clone https://github.com/DroitXenon/FLNet.git
 cd FLNet
 pip install -r requirements.txt
 ```
