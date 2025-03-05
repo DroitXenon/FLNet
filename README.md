@@ -1,14 +1,13 @@
 # FLNet
 
-**Federated Learning with Adaptive Gradient Compression and Local Update SGD for CNNs**
+**Federated Learning with Adaptive Gradient Compression and Federated Knowledge Distillation for CNNs**
 
 ## Overview
-FLNet is a Federated Learning (FL) framework that integrates **Adaptive Gradient Compression (AGC)** and **Local Update Stochastic Gradient Descent (SGD)** to optimize training efficiency for **Convolutional Neural Networks (CNNs)**. The goal is to reduce communication overhead while maintaining model accuracy in FL environments.
+FLNet is a Federated Learning (FL) framework that integrates **Adaptive Gradient Compression (AGC)** and **Federated Knowledge Distillation** to optimize training efficiency for **Convolutional Neural Networks (CNNs)**. The goal is to reduce communication overhead while maintaining model accuracy in FL environments.
 
 ## Features
 - **Federated Learning (FL)**: Decentralized model training without sharing raw data.
 - **Adaptive Gradient Compression (AGC)**: Reduces communication cost by compressing gradients dynamically.
-- **Local Update SGD**: Clients perform multiple local updates before synchronizing with the central server.
 - **CNN Support**: Optimized for deep learning models like ResNet, MobileNet, and custom CNN architectures.
 - **PyTorch Implementation**: Built on PyTorch for flexible deep learning experimentation.
 
