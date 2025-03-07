@@ -1,6 +1,6 @@
-# FLNet
+# DML Net
 
-**Federated Learning with Adaptive Gradient Compression and Federated Knowledge Distillation for CNNs**
+**Distributed Machine Learning with Adaptive Gradient Compression and Federated Knowledge Distillation for CNNs**
 
 ## Overview
 FLNet is a Federated Learning (FL) framework that integrates **Adaptive Gradient Compression (AGC)** and **Federated Knowledge Distillation** to optimize training efficiency for **Convolutional Neural Networks (CNNs)**. The goal is to reduce communication overhead while maintaining model accuracy in FL environments.
